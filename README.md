@@ -1,1 +1,1 @@
-# smartgrid_coustomer-portal
+# smartgrid-portal
