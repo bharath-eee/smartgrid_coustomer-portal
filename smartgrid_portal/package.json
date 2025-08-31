@@ -91,8 +91,8 @@
     "vite-tsconfig-paths": "3.6.0"
   }
 }
-{
-  "scripts": {
-    "build": "[my-framework] build --output public"
-  }
+"scripts": {
+  "dev": "vite",
+  "build": "vite build",
+  "preview": "vite preview"
 }
